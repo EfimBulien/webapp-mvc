@@ -1,0 +1,22 @@
+@model IEnumerable<Product>
+
+<div class="container mt-4">
+    <h1>Catalog</h1>
+    <div class="row">
+        @foreach (var product in Model)
+        {
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                <img class="card-img-top" src="@product.ProductImage" alt="@product.ProductName" />
+                <div class="card-body">
+                    <h5 class="card-title">@product.ProductName</h5>
+                    <p class="card-text">@product.ProductDescription</p>
+                    <p class="card-text"><strong>@product.ProductPrice $</strong></p>
+                    <p class="card-text">Category: @product.Category.CategoryName</p>
+                    <a href="#" class="btn btn-primary">Buy Now</a>
+                </div>
+            </div>
+        </div>
+        }
+    </div>
+</div>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dFvBhuL9gp58TnaMVem+emi/xxWYq+Rjjda6/bgZ3xM=",
+  "Hash": "a276yaJBOH/5NaKd5g1Au/Civ3CeBDGX+hjh1VoDsFY=",
   "Source": "iPhoneStoreWebAppMVC",
   "BasePath": "_content/iPhoneStoreWebAppMVC",
   "Mode": "Default",
@@ -93,12 +93,12 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/macbookair/RiderProjects/iPhoneStoreWebApp/iPhoneStoreWebAppMVC/wwwroot/images/iphone15.jpg",
+      "Identity": "/Users/macbookair/RiderProjects/iPhoneStoreWebApp/iPhoneStoreWebAppMVC/wwwroot/images/airpods_pro_2.jpg",
       "SourceId": "iPhoneStoreWebAppMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/macbookair/RiderProjects/iPhoneStoreWebApp/iPhoneStoreWebAppMVC/wwwroot/",
       "BasePath": "_content/iPhoneStoreWebAppMVC",
-      "RelativePath": "images/iphone15.jpg",
+      "RelativePath": "images/airpods_pro_2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,15 +109,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/iphone15.jpg"
+      "OriginalItemSpec": "wwwroot/images/airpods_pro_2.jpg"
     },
     {
-      "Identity": "/Users/macbookair/RiderProjects/iPhoneStoreWebApp/iPhoneStoreWebAppMVC/wwwroot/images/iphone16.jpg",
+      "Identity": "/Users/macbookair/RiderProjects/iPhoneStoreWebApp/iPhoneStoreWebAppMVC/wwwroot/images/iphone_15.jpg",
       "SourceId": "iPhoneStoreWebAppMVC",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/macbookair/RiderProjects/iPhoneStoreWebApp/iPhoneStoreWebAppMVC/wwwroot/",
       "BasePath": "_content/iPhoneStoreWebAppMVC",
-      "RelativePath": "images/iphone16.jpg",
+      "RelativePath": "images/iphone_15.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,7 +128,45 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/iphone16.jpg"
+      "OriginalItemSpec": "wwwroot/images/iphone_15.jpg"
+    },
+    {
+      "Identity": "/Users/macbookair/RiderProjects/iPhoneStoreWebApp/iPhoneStoreWebAppMVC/wwwroot/images/iphone_16_pro_max.jpg",
+      "SourceId": "iPhoneStoreWebAppMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/RiderProjects/iPhoneStoreWebApp/iPhoneStoreWebAppMVC/wwwroot/",
+      "BasePath": "_content/iPhoneStoreWebAppMVC",
+      "RelativePath": "images/iphone_16_pro_max.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/iphone_16_pro_max.jpg"
+    },
+    {
+      "Identity": "/Users/macbookair/RiderProjects/iPhoneStoreWebApp/iPhoneStoreWebAppMVC/wwwroot/images/macbook_pro_16.jpg",
+      "SourceId": "iPhoneStoreWebAppMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/RiderProjects/iPhoneStoreWebApp/iPhoneStoreWebAppMVC/wwwroot/",
+      "BasePath": "_content/iPhoneStoreWebAppMVC",
+      "RelativePath": "images/macbook_pro_16.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/macbook_pro_16.jpg"
     },
     {
       "Identity": "/Users/macbookair/RiderProjects/iPhoneStoreWebApp/iPhoneStoreWebAppMVC/wwwroot/js/site.js",

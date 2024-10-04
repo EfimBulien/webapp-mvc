@@ -13,12 +13,20 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/macbookair/RiderProjects/iPhoneStoreWebApp/iPhoneStoreWebAppMVC/wwwroot/images/iphone15.jpg",
-      "PackagePath": "staticwebassets/images/iphone15.jpg"
+      "Id": "/Users/macbookair/RiderProjects/iPhoneStoreWebApp/iPhoneStoreWebAppMVC/wwwroot/images/airpods_pro_2.jpg",
+      "PackagePath": "staticwebassets/images/airpods_pro_2.jpg"
     },
     {
-      "Id": "/Users/macbookair/RiderProjects/iPhoneStoreWebApp/iPhoneStoreWebAppMVC/wwwroot/images/iphone16.jpg",
-      "PackagePath": "staticwebassets/images/iphone16.jpg"
+      "Id": "/Users/macbookair/RiderProjects/iPhoneStoreWebApp/iPhoneStoreWebAppMVC/wwwroot/images/iphone_15.jpg",
+      "PackagePath": "staticwebassets/images/iphone_15.jpg"
+    },
+    {
+      "Id": "/Users/macbookair/RiderProjects/iPhoneStoreWebApp/iPhoneStoreWebAppMVC/wwwroot/images/iphone_16_pro_max.jpg",
+      "PackagePath": "staticwebassets/images/iphone_16_pro_max.jpg"
+    },
+    {
+      "Id": "/Users/macbookair/RiderProjects/iPhoneStoreWebApp/iPhoneStoreWebAppMVC/wwwroot/images/macbook_pro_16.jpg",
+      "PackagePath": "staticwebassets/images/macbook_pro_16.jpg"
     },
     {
       "Id": "/Users/macbookair/RiderProjects/iPhoneStoreWebApp/iPhoneStoreWebAppMVC/wwwroot/js/site.js",
